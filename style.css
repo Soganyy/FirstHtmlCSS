@@ -112,3 +112,49 @@ height: 356px;
 left: 890px;
 top: 223px;
 }
+
+.rectangle1{
+    position: absolute;
+width: 483.63px;
+height: 200px;
+left: 409.39px;
+top: 666.62px;
+
+background: #1E4681;
+border-radius: 5px;
+}
+.t3{
+    position: absolute;
+    width: 430.59px;
+    height: 113px;
+    left: 435.42px;
+    top: 685.88px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    
+    color: #FFFFFF;
+    
+}
+.t4{
+    position: absolute;
+    width: 280.5px;
+    height: 45.64px;
+    left: 594px;
+    top: 821px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 130%;
+    /* or 26px */
+    
+    text-align: right;
+    
+    color: #FFFFFF;
+    
+}
