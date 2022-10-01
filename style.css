@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
+main{
+    margin-left: 8.47vw;
+}
+
 .imginheader{
     width: 8%;
     margin-left: 8.47%;
@@ -8,7 +12,7 @@
 }
 
 .uppergroup1{
-    margin-left: 8.47%;
+    /* margin-left: 8.47%; */
     margin-top: 6.6%;
     width: 74.5vw;
     display: flex;
@@ -95,7 +99,7 @@
 
 .uppergroup2{
     margin-top: 32.6vw;
-    margin-left: 8.47vw;
+    /* margin-left: 8.47vw; */
     display: flex;
 }
 .t6{
@@ -124,7 +128,7 @@
 
 .uppergroup3{
     margin-top: 5.41vw;
-    margin-left: 8.4vw;
+    /* margin-left: 8.4vw; */
     display: flex;
     gap: 9.16vw;
     
@@ -157,7 +161,7 @@
 
 .uppergroup4{
     margin-top: 12.84vw;
-    margin-left: 8.47vw;
+    /* margin-left: 8.47vw; */
 }
 .t10{
     font-family: 'Roboto Slab';
@@ -189,11 +193,9 @@
     line-height: 130%;
 }
 
-
-
 .group6{
     margin-top: 15.97vw;
-    margin-left: 8.4vw;
+    /* margin-left: 8.4vw; */
 }
 .t11{
     font-family: 'Roboto Slab';
@@ -210,4 +212,10 @@ ul{
     font-weight: 400;
     font-size: 1.66vw;
     line-height: 150%;
+}
+
+.heading1{
+    margin-top: 16.66vw;
+    /* margin-left: 8.47vw; */
+    
 }
