@@ -91,8 +91,6 @@
     font-size: 1.38vw;
     line-height: 130%;
 }
-
-
 .uppergroup2{
     margin-top: 32.6vw;
     margin-left: 8.47vw;
@@ -121,3 +119,42 @@
     width: 21.8vw;
     height: 21vw;
 }
+
+
+
+
+.uppergroup3{
+    margin-top: 5.41vw;
+    margin-left: 8.4vw;
+    display: flex;
+    gap: 9.16vw;
+    
+}
+.bigcamman{
+    width: 16.11vw;
+    height: 14.09vw;
+}
+.group4{
+    display: flex;
+    gap: 6.94vw;
+}
+.t8{
+    margin-top: 5.2vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.73vw;
+    line-height: 130%;
+}
+.t9{
+    margin-top: 1.38vw;
+    width: 10.41vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 130%;
+}
+
+
+
