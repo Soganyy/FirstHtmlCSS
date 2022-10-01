@@ -1,20 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-#imginheader{
+.imginheader{
     width: 8%;
-    margin-left: 122px;
-    margin-top: 21px;
+    margin-left: 8.47%;
+    margin-top: 1.4%;
 }
 
-
-
-
-
-.topgroup{
-    margin-left: 121px;
-    margin-top: 96px;
-    width: 74.5%;
+.uppergroup1{
+    margin-left: 8.47%;
+    margin-top: 6.6%;
+    width: 74.5vw;
     display: flex;
 }
 .group1{
@@ -23,16 +19,16 @@
 .altgroup1{
     display: flex;
 }
-#photo1{
+.photo1{
     width: 1.52vw;
-    height: 75%;
-    margin-right: 5px;
+    height: 1.6vw;
+    margin-right: 0.34vw;
 }
-#photo1a{
+.photo1a{
     width: 1.52vw;
-    height: 75%;
-    margin-right: 5px;
-    margin-left: 25px;
+    height: 1.6vw;
+    margin-right: 0.34vw;
+    margin-left: 1.73vw;
 }
 .t1{
     font-family: 'Roboto';
@@ -41,7 +37,7 @@
     font-size: 1.38vw;
 }
 .altgroup2{
-    margin-top: 52px;
+    margin-top: 3.6vw;
 }
 .t2{
     font-family: 'Roboto Slab';
@@ -51,20 +47,77 @@
     line-height: 101.38%;
 }
 .t3{
-    margin-top: 33px;
+    margin-top: 2.29vw;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 1.38vw;
     line-height: 150%;
 }
-#firstmanimage{
-    margin-left: 204px;
-    margin-top: 36px;
+.firstmanimage{
+    margin-left: 14.1vw;
+    margin-top: 2.5vw;
     width: 21.1vw;
+}
+.group2{
+    position: absolute;
+    left: 28.4vw;
+    top: 46.25vw;
+    /* margin-top: 4.69%;
+    margin-left: 28.4%; */
+    width: 33.5%;
+    /* look at there at the end */
+    height: 13.8vw;
+    background: #1E4681;
+    border-radius: 0.34vw;
+}
+.t4{
+    color: white;
+    margin-top: 2vw;
+    margin-left: 1.8vw;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 130%;
+}
+.t5{
+    color: white;
+    margin-top: 0.55vw;
+    margin-left: 19.3vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.38vw;
+    line-height: 130%;
 }
 
 
-
-
-
+.uppergroup2{
+    margin-top: 32.6vw;
+    margin-left: 8.47vw;
+    display: flex;
+}
+.t6{
+    width: 25.34vw;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.81vw;
+    line-height: 101.38%;
+}
+.t7{
+    width: 45.9vw;
+    margin-top: 3.47vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.66vw;
+    line-height: 150%;
+}
+.camman{
+    margin-top: 8.75vw;
+    margin-left: 13.2vw;
+    width: 21.8vw;
+    height: 21vw;
+}
