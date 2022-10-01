@@ -1,29 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
+
+.topgroup{
+    width: 74%;
+}
+
 #imginheader{
     position: absolute;
-    width: 112px;
-    height: 66px;
+    width: 8%;
     left: 121px;
     top: 21px;
 }
 
 .group1{
     position: absolute;
-    width: 629px;
-    height: 306px;
+    width: 44%;
     left: 121px;
     top: 183px;
 }
 #photo1{
-    width: 22px;
-    height: 21px;
+    width: 3%;
+    height: 75%;
     margin-right: 5px;
 }
 #photo1a{
-    width: 22px;
-    height: 21px;
+    width: 3%;
+    height: 75%;
     margin-right: 5px;
     margin-left: 25px;
 }
@@ -60,83 +63,10 @@
     font-size: 20px;
     line-height: 150%;
 }
+
 #firstmanimage{
     position: absolute;
-    width: 304px;
-    height: 356px;
+    width: 21%;
     left: 890px;
     top: 223px;
-}
-
-.group2{
-    position: absolute;
-    width: 483.63px;
-    height: 200.02px;
-    left: 409.39px;
-    top: 666.62px;
-    background: #1E4681;
-    border-radius: 5px;
-}
-.t4{
-    margin: 20px 27px 10px 26px;
-    width: 430.59px;
-    height: 113px;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 130%;
-    color: white;
-}
-.t5{
-    padding-right: 50px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 130%;
-    text-align: right;
-    color: #FFFFFF;
-}
-
-.group3{
-    position: absolute;
-    width: 662px;
-    height: 485px;
-    left: 121px;
-    top: 1040px;
-}
-.t6{
-    width: 365px;
-    height: 93px;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 55px;
-    line-height: 101.38%;
-}
-.t7{
-    width: 662px;
-    height: 374px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 150%;
-}
-
-#camman{
-    position: absolute;
-    width: 314px;
-    height: 315px;
-    left: 973px;
-    top: 1175px;
-}
-
-#bigcamman{
-    position: absolute;
-    width: 232px;
-    height: 203px;
-    left: 121px;
-    top: 1619px;
 }
