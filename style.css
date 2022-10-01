@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-main{
-    margin-left: 8.47vw;
-}
-
 .imginheader{
     width: 8%;
     margin-left: 8.47%;
@@ -12,7 +8,7 @@ main{
 }
 
 .uppergroup1{
-    /* margin-left: 8.47%; */
+    margin-left: 8.47%;
     margin-top: 6.6%;
     width: 74.5vw;
     display: flex;
@@ -99,7 +95,7 @@ main{
 
 .uppergroup2{
     margin-top: 32.6vw;
-    /* margin-left: 8.47vw; */
+    margin-left: 8.47vw;
     display: flex;
 }
 .t6{
@@ -128,7 +124,7 @@ main{
 
 .uppergroup3{
     margin-top: 5.41vw;
-    /* margin-left: 8.4vw; */
+    margin-left: 8.4vw;
     display: flex;
     gap: 9.16vw;
     
@@ -161,7 +157,7 @@ main{
 
 .uppergroup4{
     margin-top: 12.84vw;
-    /* margin-left: 8.47vw; */
+    margin-left: 8.47vw;
 }
 .t10{
     font-family: 'Roboto Slab';
@@ -195,7 +191,7 @@ main{
 
 .group6{
     margin-top: 15.97vw;
-    /* margin-left: 8.4vw; */
+    margin-left: 8.4vw;
 }
 .t11{
     font-family: 'Roboto Slab';
@@ -216,6 +212,66 @@ ul{
 
 .heading1{
     margin-top: 16.66vw;
-    /* margin-left: 8.47vw; */
-    
+    margin-left: 8.47vw;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.81vw;
+    line-height: 101.38%;
+}
+
+
+
+
+
+
+.group7{
+    margin-top: 8.81vw;
+    margin-left: 5.83vw;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.5vw;
+}
+.rect{
+    width: 27.4vw;
+    height: 24.4vw;
+    background: #FFFFFF;
+    box-shadow: 0.06vw 0.06vw 1.04vw rgba(0, 0, 0, 0.25);
+    border-radius: 2.08vw;
+}
+.rect1{
+    width: 27.4vw;
+    height: 11.11vw;
+    object-fit: cover;
+    object-position: 100% 30%;
+    border-radius: 2.08vw 2.08vw 0vw 0vw;
+}
+.t12{
+    margin-top: 1.25vw;
+    margin-left: 1.38vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.08vw;
+    line-height: 130%;
+}
+.t13{
+    margin-top: 2vw;
+    margin-left: 1.38vw;
+    width: 25.34vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 130%;
+}
+.t131{
+    margin-top: 0.4vw;
+    margin-left: 1.38vw;
+    width: 25.34vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 130%;
 }
