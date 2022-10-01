@@ -59,6 +59,7 @@
     margin-top: 2.5vw;
     width: 21.1vw;
 }
+
 .group2{
     position: absolute;
     left: 28.4vw;
@@ -91,6 +92,7 @@
     font-size: 1.38vw;
     line-height: 130%;
 }
+
 .uppergroup2{
     margin-top: 32.6vw;
     margin-left: 8.47vw;
@@ -119,9 +121,6 @@
     width: 21.8vw;
     height: 21vw;
 }
-
-
-
 
 .uppergroup3{
     margin-top: 5.41vw;
@@ -158,3 +157,36 @@
 
 
 
+.uppergroup4{
+    margin-top: 12.84vw;
+    margin-left: 8.47vw;
+}
+.t10{
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.81vw;
+    line-height: 101.38%;
+}
+.group5{
+    display: flex;
+    gap: 8.88vw;
+}
+.t101{
+    margin-top: 8.88vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.73vw;
+    line-height: 130%;
+    color: #1E4681;
+}
+.t100{
+    width: 18.36vw;
+    margin-top: 1vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 130%;
+}
