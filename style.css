@@ -74,8 +74,9 @@
 }
 .t4{
     color: white;
-    margin-top: 2vw;
+    margin-top: 1.7vw;
     margin-left: 1.8vw;
+    width: 29.9vw;
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 400;
@@ -84,7 +85,7 @@
 }
 .t5{
     color: white;
-    margin-top: 0.55vw;
+    /* margin-top: 0.w; */
     margin-left: 19.3vw;
     font-family: 'Roboto';
     font-style: normal;
@@ -220,11 +221,6 @@ ul{
     line-height: 101.38%;
 }
 
-
-
-
-
-
 .group7{
     margin-top: 8.81vw;
     margin-left: 5.83vw;
@@ -247,7 +243,7 @@ ul{
     border-radius: 2.08vw 2.08vw 0vw 0vw;
 }
 .t12{
-    margin-top: 1.25vw;
+    margin-top: 1.1vw;
     margin-left: 1.38vw;
     font-family: 'Roboto';
     font-style: normal;
@@ -274,4 +270,64 @@ ul{
     font-weight: 400;
     font-size: 1.73vw;
     line-height: 130%;
+}
+
+.group8{
+    padding-top: 6.31vw;
+    margin-top: 8.26vw;
+    background: #EFEFEF;
+    width: 100%;
+    height: 54.1vw;
+}
+.heading2{
+    margin-left: 8.47vw;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.81vw;
+    line-height: 101.38%;
+}
+.altgroup5{
+    margin-top: 4.79vw;
+    margin-left: 8.47vw;
+    width: 54.93vw;
+    height: 31.31vw;
+    background: #FFFFFF;
+    box-shadow: 0.06vw 0.06vw 1.38vw rgba(0, 0, 0, 0.25);
+    border-radius: 2.08vw;
+    padding-top: 3.33vw;
+}
+.t14{
+    margin-left: 3.125vw;
+    width: 48.61vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.38vw;
+    line-height: 150%;
+}
+.ppicture{
+    width: 13.19vw;
+    height: 11.73vw;
+}
+.altg{
+    margin-top: 3.26vw;
+    margin-left: 1.80vw;
+    display: flex;
+}
+.altgg{
+    margin-left: 2.08vw;
+}
+.t15{
+    margin-top: 2.77vw;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.08vw;
+    line-height: 101.38%;
+}
+.fb2{
+    margin-top: 1.736vw;
+    width: 2.22vw;
+    height: 2.152vw;
 }
