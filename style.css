@@ -155,8 +155,6 @@
     line-height: 130%;
 }
 
-
-
 .uppergroup4{
     margin-top: 12.84vw;
     margin-left: 8.47vw;
@@ -189,4 +187,27 @@
     font-weight: 400;
     font-size: 1.25vw;
     line-height: 130%;
+}
+
+
+
+.group6{
+    margin-top: 15.97vw;
+    margin-left: 8.4vw;
+}
+.t11{
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.81vw;
+    line-height: 101.38%;
+}
+ul{
+    margin-top: 4.375vw;
+    width: 46vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.66vw;
+    line-height: 150%;
 }
