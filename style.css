@@ -331,3 +331,129 @@ ul{
     width: 2.22vw;
     height: 2.152vw;
 }
+
+.group9{
+    width: 100%;
+    height: 54.1vw;
+    background: #9DC9C8;
+    padding-top: 12.84vw;
+}
+.t20{
+    margin-left: 8.4vw;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.81vw;
+    line-height: 101.38%;
+}
+.altgroup6{
+    margin-top: 4.16vw;
+    margin-left: 8.4vw;
+}
+.t16{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 101.38%;
+}
+.t17{
+    margin-top: 1.73vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.55vw;
+    line-height: 101.38%;
+}
+.altgroup7{
+    margin-top: 4.93vw;
+    margin-left: 8.4vw;
+    display: flex;
+    gap: 5.06vw;
+}
+.t18{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 101.38%;
+}
+.t19{
+    margin-top: 1.18vw;
+    width: 20.41vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 101.38%;
+}
+
+.footer{
+    width: 100%;
+    height: 27.08vw;
+    background-color: black;
+    padding-top: 3.47vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+.imginfooter{
+    margin-left: 8.4vw;
+    width: 7.98vw;
+    height: 4.72vw;
+}
+.group10{
+    margin-left: 8.4vw;
+}
+.icons{
+    margin-top: 2.08vw;
+    margin-right: 1.25vw;
+    width: 2.29vw;
+    height: 2.29vw;
+}
+.uppergroup6{
+    margin-left: 40vw;
+}
+.gruop11{
+    width: 22.08vw;
+    height: 6.11vw;
+    display: flex;
+    flex: wrap;
+}
+.phoneicon{
+    width: 1.87vw;
+    height: 1.87vw;
+    margin-right: 1.52vw;
+}
+.t22{
+    width: 18.68vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 101.38%;
+    color: white;
+}
+.mailicon{
+    width: 1.87vw;
+    height: 1.25vw;
+    margin-right: 1.52vw;
+    margin-top: 0.2vw;
+}
+.altgroup11{
+    display: flex;
+    margin-top: 0.69vw;
+}
+.altgroup12{
+    display: flex;
+    margin-top: 1.38vw;
+}
+.t24{
+    color: white;
+    margin-left: 8.4vw;
+    margin-top: 10.2vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 101.38%;
+}
